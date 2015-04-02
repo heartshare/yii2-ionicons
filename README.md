@@ -39,3 +39,15 @@ class AppAsset extends AssetBundle
 }
 
 ```
+
+```
+
+Helper
+------
+```php
+
+use gietos\yii\ionicons\Ion;
+
+echo FA::icon('heart');
+// <i class="ion ion-heart"></i>
+```
