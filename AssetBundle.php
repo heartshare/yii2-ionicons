@@ -15,7 +15,7 @@ class AssetBundle extends \yii\web\AssetBundle
     /**
      * @inherit
      */
-    public $sourcePath = '@vendor/driftyco/ion-icons';
+    public $sourcePath = '@vendor/driftyco/ionicons';
 
     /**
      * @inherit
