@@ -46,6 +46,6 @@ Helper
 
 use gietos\yii\ionicons\Ion;
 
-echo FA::icon('heart');
+echo Ion::icon('heart');
 // <i class="ion ion-heart"></i>
 ```
