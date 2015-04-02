@@ -40,8 +40,6 @@ class AppAsset extends AssetBundle
 
 ```
 
-```
-
 Helper
 ------
 ```php
